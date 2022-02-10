@@ -2,11 +2,11 @@
 
 //2.a
 String name = ("Natasja Vitoft");
-print(name);
+print(name, "");
 
 //2.b
 int age = 22;
-print(age);
+print(age, "");
 
 //2.c
 
@@ -17,8 +17,7 @@ boolean happy = true;
 
 
 if (happy) {
-  String dont = ("");
-  print("Hi, my name is", name, ".", "I am", age, "years old.", "I", dont, "clap my hand");
+  print("Hi, my name is", name, ".", "I am", age, "years old.", "I clap my hand");
 }
 
 else {
