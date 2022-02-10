@@ -11,7 +11,6 @@ print(age, "");
 //2.c
 
 boolean happy = true;
-//boolean sad = false;
 
 //2.d
 
